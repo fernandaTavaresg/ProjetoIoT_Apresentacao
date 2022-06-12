@@ -1,4 +1,4 @@
-# Proggramação para Internet das Coisas
+# Programação para Internet das Coisas
 
 CURSO: TECNOLOGIA EM SISTEMAS PARA INTERNET
 
