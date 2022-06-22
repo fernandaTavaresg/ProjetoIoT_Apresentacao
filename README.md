@@ -12,12 +12,13 @@ GRUPO:
 # Projeto IoT - Sistema de Gerenciamento de frutas/Hortaliças
 ## Introdução
 
-## Justificativa 
+## Justificativa (Fernanda)
+
 // Qualidade da solução: busque resolver de forma satisfatória e duradoura o problema com a técnica empregada considerando o contexto educacional vigente
 // Potencial tecnológico comparativo: busque descrever detalhadamente as vantagens e desvantagens em relação as soluções similares existentes.
-## Metodologia (Fernanda)
+## Metodologia
 
-## Conclusão (Fernanda)
+## Conclusão
 
 ## Trabalhos Futuros (Fernanda)
 // Nível de dificuldade: busque descrever detalhadamente as dificuldades técnicas e possíveis alternativas para contornar tais dificuldades 
