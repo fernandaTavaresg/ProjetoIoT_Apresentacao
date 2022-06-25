@@ -8,16 +8,19 @@ GRUPO:
 
 TEMA: SISTEMA DE GERENCIAMENTO PARA FRUTAS E VERDURAS
 # Projeto Iot
+
 ## Introdução (Fernanda)
+
 Sabemos da importância em relação a boa alimentação, referente ao consumo de frutas e verduras no dia a dia. E também na produção, distribuição e exposição desses alimentos, nesse contexto esse trabalho tem o objetivo de fazer o controle e conservação das frutas e hortaliças, reduzindo assim questões de desperdício e melhorando as condições dos alimentos que chegam as nossas mesas.
 
 As estimativas de perda, em países desenvolvidos, estão entre 5% e 25%, e para os países em desenvolvimento, estão entre 20% e 50%. Levantamentos indicam que
 30% de tudo o que se produz em solo brasileiro deixa de ser aproveitado por causa de danos sofridos ao longo da cadeia produtiva. (LUENGO; CALBO, 2011)
 
-## Justificativa
+## Justificativa (Poliana)
 
 // Qualidade da solução: busque resolver de forma satisfatória e duradoura o problema com a técnica empregada considerando o contexto educacional vigente
 // Potencial tecnológico comparativo: busque descrever detalhadamente as vantagens e desvantagens em relação as soluções similares existentes.
+
 ## Metodologia (Fernanda)
 
 Dentre os materiais e métodos para o desenvolvimento, também realizamos pesquisas diversas referente a construção e implementação do dispositivo em arduino, como os componentes utilizados, conexões e códigos; e também sobre o tema a ser desenvolvido, a conservação de frutas e hortaliças, condições que interferem nesses alimentos, dados referentes a temperatura, umidade relativa e ventilação do ar.
@@ -57,14 +60,30 @@ Para ligar o Servo Motor ao Arduino, temos três pinos, sendo eles: um para alim
 ![Imagem 4](Image4.jpg)
 ![Imagem 7](Image7.jpg)
 
+Para a programação do Arduino. Foi necessário para uma nova versão do programa 'Arduino', e duas bibliotecas para a utilização do sensor: a Biblioteca DHT11 e a AdaFruit. 
+
+A seguir, temos o código utilizado para a execução do sensor. E Também a saída respectiva do sensor, apresentando a temperatura e umidade do ambiente.
+
+![Imagem 8](Image8.jpg)
+![Imagem 9](Image9.jpg)
+
 ## Conclusão
 
 ## Trabalhos Futuros
-Conexão de dispositivo Arduino com aplicações Web, com protocolo MQTT, para exibição em dados coletados no dispositivo a um software (aplicativo), para implementação completo contendo dados e informações para o melhor gerenciamento das frutas e verduras.
+
+Conexão de dispositivo Arduino com aplicações Web, com protocolo MQTT, para exibição em dados coletados no dispositivo a um software (aplicativo), para implementação completa contendo dados e informações para o melhor gerenciamento das frutas e verduras.
 
 ## Referências 
+
 Artigo: Sistema de monitoramento de umidade de solo via web. acesso em: https://hto.ifsp.edu.br/portal/images/thumbnails/images/IFSP/Cursos/Coord_ADS/Arquivos/TCCs/2018/TCC_HumbertoAntonioFerrisPereira_HT1320203.pdf
 
 Artigo: Sistema IoT para Monitoramento de Temperatura e UmidadeAmbientes e Acionamento Remoto de Cargas. acesso em: https://sol.sbc.org.br/index.php/eripi/article/view/5173/5079
 
+Site: Flavio Babos - Montagem do servo motor no Arduino. acesso em: https://flaviobabos.com.br/servo-motor-arduino/
+
+Site: Filipe Flop - Montagem do Led no arduino. acesso em: https://www.filipeflop.com/blog/aprenda-a-piscar-um-led-com-arduino/
+
+Site: Filipe Flop - Montagem do sensor DHT11 no arduino. acesso em: https://www.filipeflop.com/blog/monitorando-temperatura-e-umidade-com-o-sensor-dht11/#:~:text=Conectando%20o%20sensor%20DHT11%20ao%20Arduino%3A&text=Se%20desejar%2C%20pode%2Dse%20adicionar,e%20o%20pino%20de%20dados.&text=Conecte%20o%20pino%20de%20dados,alterar%20por%20outro%20se%20desejar
+
+Site: Blog da Robotica - Sensor DHT11. acesso em: https://www.blogdarobotica.com/2020/10/29/medindo-temperatura-e-umidade-usando-o-sensor-dht11/
 
