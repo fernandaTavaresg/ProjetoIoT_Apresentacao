@@ -64,8 +64,8 @@ Para a programação do Arduino. Foi necessário para uma nova versão do progra
 
 A seguir, temos o código utilizado para a execução do sensor. E Também a saída respectiva do sensor, apresentando a temperatura e umidade do ambiente.
 
-![Imagem 8](Image8.jpg)
-![Imagem 9](Image9.jpg)
+![Imagem 8](image8.jpg)
+![Imagem 9](image9.jpg)
 
 ## Conclusão
 
