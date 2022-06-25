@@ -27,11 +27,11 @@ Leds (Vermelho e Verde)
 
 Servo Motor
 
-![Imagem 1](Image1.jpg)
+![Imagem 1](Imagem1.jpg)
 
 ![Imagem 2](Image2.jpg)
 
-![Imagem 3](Image3.jpg)
+![Imagem 3](Imagem3.jpg)
 
 ![Imagem 4](Image4.jpg)
 
