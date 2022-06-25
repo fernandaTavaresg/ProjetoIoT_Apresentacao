@@ -2,6 +2,7 @@
 CURSO: TECNOLOGIA EM SISTEMAS PARA INTERNET
 
 GRUPO: 
+
  FERNANDA BEATRIZ TAVARES GOMES
 
  POLIANA DE ARAUJO PEREIRA
@@ -17,6 +18,8 @@ As estimativas de perda, em países desenvolvidos, estão entre 5% e 25%, e para
 30% de tudo o que se produz em solo brasileiro deixa de ser aproveitado por causa de danos sofridos ao longo da cadeia produtiva. (LUENGO; CALBO, 2011)
 
 ## Justificativa (Poliana)
+
+DICAS (DEPOIS REMOVER ISSO)
 
 // Qualidade da solução: busque resolver de forma satisfatória e duradoura o problema com a técnica empregada considerando o contexto educacional vigente
 // Potencial tecnológico comparativo: busque descrever detalhadamente as vantagens e desvantagens em relação as soluções similares existentes.
@@ -64,14 +67,16 @@ Para a programação do Arduino. Foi necessário para uma nova versão do progra
 
 A seguir, temos o código utilizado para a execução do sensor. E Também a saída respectiva do sensor, apresentando a temperatura e umidade do ambiente.
 
-![Imagem 8](image8.jpg)
-![Imagem 9](image9.jpg)
+![Imagem 9](image99.jpg)
+![Imagem 8](image88.jpg)
 
-## Conclusão
+
+## Conclusão (Poliana)
 
 ## Trabalhos Futuros
-
-Conexão de dispositivo Arduino com aplicações Web, com protocolo MQTT, para exibição em dados coletados no dispositivo a um software (aplicativo), para implementação completa contendo dados e informações para o melhor gerenciamento das frutas e verduras.
+- Completar a implementação utilizando o servo motor como controle para acionamento de ventiladores e ar-condicionados.
+- Adicionar ao dispositivo dados sobre ventilação do ar, que também interferem na conservação de frutas e hortaliças.
+- Conexão de dispositivo Arduino com aplicações Web, com protocolo MQTT, para exibição em dados coletados no dispositivo a um software (aplicativo), para implementação completa contendo dados e informações para o melhor gerenciamento das frutas e verduras.
 
 ## Referências 
 
