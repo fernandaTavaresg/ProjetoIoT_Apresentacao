@@ -18,7 +18,7 @@ As estimativas de perda, em países desenvolvidos, estão entre 5% e 25%, e para
 30% de tudo o que se produz em solo brasileiro deixa de ser aproveitado por causa de danos sofridos ao longo da cadeia produtiva. (LUENGO; CALBO, 2011)
 
 ## Justificativa (Poliana)
-
+Devido ao grande número de gastos com esses alimentos, que acontece diariamente, como forma de reduzir esses dados, seja no ambiente, transporte e mesmo disponibilizando conhecimento para os transportadores, comerciantes e outros usuário. Como forma de solução atráves desse trabalho acadêmico a ideia é a criação de um pequeno projeto prático utilizando: arduino uno, placa de ensaio (protoboard), sensor de DHT11 (Umidade e temperatura), leds (amarelo e verde) entre outro materias.
 DICAS (DEPOIS REMOVER ISSO)
 
 // Qualidade da solução: busque resolver de forma satisfatória e duradoura o problema com a técnica empregada considerando o contexto educacional vigente
@@ -73,6 +73,7 @@ A seguir, temos o código utilizado para a execução do sensor. E Também a sa�
 
 ## Conclusão (Poliana)
 
+Buscando através desse projeto prático acompanhar o amadurecimento e buscar controlar e diminuir desperdício. Concluimos inicialmente que para alcançarmos os objetivos de manter as frutas e hortaliças com bom estado de conservação é necessário uma analíse através dos sensores de umidade e de temperatura. E esse projeto tem utilizado testes iniciais no tinkcard e testes com materiais arduino uno, placa de ensaio (protoboard), sensor de DHT11 (Umidade e temperatura), leds (amarelo e verde) entre outro materias de forma prática manuseado por nossa dupla e com acompanhamento do professor.
 ## Trabalhos Futuros
 - Completar a implementação utilizando o servo motor como controle para acionamento de ventiladores e ar-condicionados.
 - Adicionar ao dispositivo dados sobre ventilação do ar, que também interferem na conservação de frutas e hortaliças.
