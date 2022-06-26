@@ -19,10 +19,6 @@ As estimativas de perda, em países desenvolvidos, estão entre 5% e 25%, e para
 
 ## Justificativa (Poliana)
 Devido ao grande número de gastos com esses alimentos, que acontece diariamente, como forma de reduzir esses dados, seja no ambiente, transporte e mesmo disponibilizando conhecimento para os transportadores, comerciantes e outros usuário. Como forma de solução atráves desse trabalho acadêmico a ideia é a criação de um pequeno projeto prático utilizando: arduino uno, placa de ensaio (protoboard), sensor de DHT11 (Umidade e temperatura), leds (amarelo e verde) entre outro materias.
-DICAS (DEPOIS REMOVER ISSO)
-
-// Qualidade da solução: busque resolver de forma satisfatória e duradoura o problema com a técnica empregada considerando o contexto educacional vigente
-// Potencial tecnológico comparativo: busque descrever detalhadamente as vantagens e desvantagens em relação as soluções similares existentes.
 
 ## Metodologia (Fernanda)
 
