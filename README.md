@@ -14,8 +14,7 @@ TEMA: SISTEMA DE GERENCIAMENTO PARA FRUTAS E VERDURAS
 
 Sabemos da importância em relação a boa alimentação, referente ao consumo de frutas e verduras no dia a dia. E também na produção, distribuição e exposição desses alimentos, nesse contexto esse trabalho tem o objetivo de fazer o controle e conservação das frutas e hortaliças, reduzindo assim questões de desperdício e melhorando as condições dos alimentos que chegam as nossas mesas.
 
-As estimativas de perda, em países desenvolvidos, estão entre 5% e 25%, e para os países em desenvolvimento, estão entre 20% e 50%. Levantamentos indicam que
-30% de tudo o que se produz em solo brasileiro deixa de ser aproveitado por causa de danos sofridos ao longo da cadeia produtiva. (LUENGO; CALBO, 2011)
+Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), 25% das perdas acontece na fase de produção, outros 25% na logística e armazenagem,5% no processamento e 10% na distribuição. O que a experiência mostra, quando se olha da fazenda até a mesa do consumidor, é que o desperdício é maior em segmentos nos quais há um menor rigor quanto à gestão dos processos.
 
 ## Justificativa (Poliana)
 Devido ao grande número de gastos com esses alimentos, que acontece diariamente, como forma de reduzir esses dados, seja no ambiente, transporte e mesmo disponibilizando conhecimento para os transportadores, comerciantes e outros usuário. Como forma de solução atráves desse trabalho acadêmico a ideia é a criação de um pequeno projeto prático utilizando: arduino uno, placa de ensaio (protoboard), sensor de DHT11 (Umidade e temperatura), leds (amarelo e verde) entre outro materias.
