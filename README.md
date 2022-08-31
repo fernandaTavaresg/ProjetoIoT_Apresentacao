@@ -8,7 +8,7 @@ GRUPO:
  POLIANA DE ARAUJO PEREIRA
 
 TEMA: SISTEMA DE GERENCIAMENTO PARA FRUTAS E VERDURAS
-# Projeto Iot
+# Projeto de Programação para internet das coisas
 
 ## Introdução (Fernanda)
 
