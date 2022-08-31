@@ -10,16 +10,16 @@ GRUPO:
 TEMA: SISTEMA DE GERENCIAMENTO PARA FRUTAS E VERDURAS
 # Projeto de Programação para internet das coisas
 
-## Introdução (Fernanda)
+## Introdução
 
 Sabemos da importância em relação a boa alimentação, referente ao consumo de frutas e verduras no dia a dia. E também na produção, distribuição e exposição desses alimentos, nesse contexto esse trabalho tem o objetivo de fazer o controle e conservação das frutas e hortaliças, reduzindo assim questões de desperdício e melhorando as condições dos alimentos que chegam as nossas mesas.
 
 Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), 25% das perdas acontece na fase de produção, outros 25% na logística e armazenagem,5% no processamento e 10% na distribuição. O que a experiência mostra, quando se olha da fazenda até a mesa do consumidor, é que o desperdício é maior em segmentos nos quais há um menor rigor quanto à gestão dos processos.
 
-## Justificativa (Poliana)
+## Justificativa
 Devido ao grande número de gastos com esses alimentos, que acontece diariamente, como forma de reduzir esses dados, seja no ambiente, transporte e mesmo disponibilizando conhecimento para os transportadores, comerciantes e outros usuário. Como forma de solução atráves desse trabalho acadêmico a ideia é a criação de um pequeno projeto prático utilizando: arduino uno, placa de ensaio (protoboard), sensor de DHT11 (Umidade e temperatura), leds (amarelo e verde) entre outro materias.
 
-## Metodologia (Fernanda)
+## Metodologia
 
 Dentre os materiais e métodos para o desenvolvimento, também realizamos pesquisas diversas referente a construção e implementação do dispositivo em arduino, como os componentes utilizados, conexões e códigos; e também sobre o tema a ser desenvolvido, a conservação de frutas e hortaliças, condições que interferem nesses alimentos, dados referentes a temperatura, umidade relativa e ventilação do ar.
 
@@ -66,7 +66,7 @@ A seguir, temos o código utilizado para a execução do sensor. E Também a sa�
 ![Imagem 8](image88.jpg)
 
 
-## Conclusão (Poliana)
+## Conclusão
 
 Buscando através desse projeto prático acompanhar o amadurecimento e buscar controlar e diminuir desperdício. Concluimos inicialmente que para alcançarmos os objetivos de manter as frutas e hortaliças com bom estado de conservação é necessário uma analíse através dos sensores de umidade e de temperatura. E esse projeto tem utilizado testes iniciais no tinkcard e testes com materiais arduino uno, placa de ensaio (protoboard), sensor de DHT11 (Umidade e temperatura), leds (amarelo e verde) entre outro materias de forma prática manuseado por nossa dupla e com acompanhamento do professor.
 ## Trabalhos Futuros
